@@ -1,0 +1,13 @@
+# rubygem-cells requires version (>=3.0)
+# check: https://rubygems.org/gems/cells/versions/3.11.3
+# rubygem-devise requires version (<5, >=3.2.6)
+# check: https://rubygems.org/gems/devise
+# rubygem-rails requires version (=4.2.3)
+# check: https://rubygems.org/gems/rails/versions/4.2.3
+# rubygem-responders requires version (< 5, >= 4.2.0)
+# check: https://rubygems.org/gems/responders/versions/2.1.0
+# rubygem-rspec-rails requires version (< 4.3, >= 3.0)
+# check: https://rubygems.org/gems/rspec-rails/versions/3.3.2
+# rubygem-sprockets-rails requires version (>= 3.0)
+# check: https://rubygems.org/gems/sprockets-rails
+watchurl=https://rubygems.org/gems/railties/versions/(4.2.3)
