@@ -1,6 +1,6 @@
 Name     : rubygem-railties
 Version  : 4.2.3
-Release  : 7
+Release  : 8
 URL      : https://rubygems.org/downloads/railties-4.2.3.gem
 Source0  : https://rubygems.org/downloads/railties-4.2.3.gem
 Summary  : No detailed summary available
